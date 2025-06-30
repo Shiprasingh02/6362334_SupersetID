@@ -1,0 +1,7 @@
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe.config
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\bin\Debug\SingletonPatternExample.pdb
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\obj\Debug\SingletonPatternExample.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\obj\Debug\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\obj\Debug\SingletonPatternExample.exe
+C:\Users\KIIT\OneDrive\Desktop\Cognizant deepskilling(dotnet)repo\SingletonPatternExample\obj\Debug\SingletonPatternExample.pdb

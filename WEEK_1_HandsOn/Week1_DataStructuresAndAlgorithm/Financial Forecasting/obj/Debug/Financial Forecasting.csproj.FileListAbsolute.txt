@@ -1,0 +1,8 @@
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\bin\Debug\Financial Forecasting.exe.config
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\bin\Debug\Financial Forecasting.exe
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\bin\Debug\Financial Forecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\obj\Debug\Financial Forecasting.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\obj\Debug\Financial Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\obj\Debug\Financial Forecasting.exe
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\obj\Debug\Financial Forecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Week_1_DataStructuresAndAlgorithms\Financial Forecasting\obj\Debug\Financial Forecasting.exe.config
