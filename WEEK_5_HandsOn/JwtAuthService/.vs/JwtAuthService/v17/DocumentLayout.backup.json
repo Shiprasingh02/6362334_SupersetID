@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\jwtauthservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:jwtauthservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|c:\\users\\kiit\\onedrive\\desktop\\week_5_handson\\jwtauthservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E3FBF-2DF7-4F5A-9C2D-CB9A0C9FCE8E}|JwtAuthService.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecureController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:57:40.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:25:00.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:42:52.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:17:00.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModels.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Models\\LoginModels.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModels.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Models\\LoginModels.cs",
+              "RelativeToolTip": "Models\\LoginModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:16:38.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:16:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtAuthService.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\JwtAuthService.csproj",
+              "RelativeDocumentMoniker": "JwtAuthService.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\JwtAuthService.csproj",
+              "RelativeToolTip": "JwtAuthService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T14:15:28.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\WEEK_5_HandsOn\\JwtAuthService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T14:14:51.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
